@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=~/PiGro_UE/start.sh
+Name=PiGro UE
+GenericName=Pigro
+Type=Application
+Terminal=false
+StartupNotify=false
+Type=Application
+Icon=~/PiGro_UE/icons/PiGroLogoslim.png
+Categories=System
